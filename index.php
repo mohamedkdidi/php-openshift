@@ -1,5 +1,1 @@
-<?php 
-
-echo "OpenShift Load Balance message from ".gethostname();
-
-?>
+<?php echo "OpenShift Load Balance message from host: ".gethostname()."\n "; ?>
